@@ -1,6 +1,6 @@
 # Spotify Clone
 
-A full-stack Spotify-inspired music streaming application built with the MERN stack. Users can browse music, play songs, view albums, chat with other users in real time, and see friends’ listening activity. Administrators can manage songs and albums through a protected dashboard.
+A full-stack Spotify-inspired music streaming application built with the MERN stack and shadcn/ui. Users can browse music, play songs, view albums, chat with other users in real time, and see friends’ listening activity. Administrators can manage songs and albums through a protected dashboard.
 
 ## Live Preview
 
@@ -60,6 +60,7 @@ A full-stack Spotify-inspired music streaming application built with the MERN st
 - TypeScript
 - Vite
 - Tailwind CSS
+- shadcn/ui
 - Zustand
 - React Router
 - Axios
